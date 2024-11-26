@@ -13,8 +13,6 @@
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" />
-
-
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="React Router" src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge" />
@@ -25,11 +23,9 @@
   <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge" />
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=for-the-badge" />
   <img alt="Fusion 360" src="https://img.shields.io/badge/Autodesk Fusion 360-000?logo=autodesk&logoColor=fff&style=for-the-badge" />
+  <img alt="cssmodules" src="https://img.shields.io/badge/css modules-fff?logo=cssmodules&logoColor=000&style=for-the-badge" />
   <img alt="styledcomponents" src="https://img.shields.io/badge/styled components-DB7093?logo=styledcomponents&logoColor=fff&style=for-the-badge" />
   <img alt="supabase" src="https://img.shields.io/badge/supabase-3FCF8E?logo=supabase&logoColor=fff&style=for-the-badge" />
   <img alt="React Query" src="https://img.shields.io/badge/react query-FF4154?logo=react%20query&logoColor=fff&style=for-the-badge" />
-
-  #FF4154
-
   
   </p>
