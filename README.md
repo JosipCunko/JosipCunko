@@ -27,6 +27,9 @@
   <img alt="Fusion 360" src="https://img.shields.io/badge/Autodesk Fusion 360-000?logo=autodesk&logoColor=fff&style=for-the-badge" />
   <img alt="styledcomponents" src="https://img.shields.io/badge/styled components-DB7093?logo=styledcomponents&logoColor=fff&style=for-the-badge" />
   <img alt="supabase" src="https://img.shields.io/badge/supabase-3FCF8E?logo=supabase&logoColor=fff&style=for-the-badge" />
+  <img alt="React Query" src="https://img.shields.io/badge/react query-FF4154?logo=react%20query&logoColor=fff&style=for-the-badge" />
+
+  #FF4154
 
   
   </p>
