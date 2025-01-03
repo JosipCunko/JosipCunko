@@ -18,16 +18,15 @@
   <img alt="React Query" src="https://img.shields.io/badge/React Query-FF4154?logo=react%20query&logoColor=fff&style=for-the-badge" />
   <img alt="React hook form" src="https://img.shields.io/badge/React Hook Form-EC5990?logo=reacthookform&logoColor=fff&style=for-the-badge" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=FFF&style=for-the-badge" />
-  <img alt="Create React App" src="https://img.shields.io/badge/Create%20React%20App-09D3AC?logo=create%20react%20app&logoColor=FFF&style=for-the-badge" />
   <img alt="Vite" src="https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=FFF&style=for-the-badge" />
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
   <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge" />
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=for-the-badge" />
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" />
   <img alt="cssmodules" src="https://img.shields.io/badge/CSS Modules-fff?logo=cssmodules&logoColor=000&style=for-the-badge" />
   <img alt="styledcomponents" src="https://img.shields.io/badge/styled components-DB7093?logo=styledcomponents&logoColor=fff&style=for-the-badge" />
+  <img alt="Nextjs" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff&style=for-the-badge" />
   <img alt="supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=for-the-badge" />
-  <img alt="Zod" src="https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=fff&style=for-the-badge" />
   <img alt="Fusion 360" src="https://img.shields.io/badge/Autodesk Fusion 360-000?logo=autodesk&logoColor=fff&style=for-the-badge" />
   
 </div>
