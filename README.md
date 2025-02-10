@@ -28,6 +28,10 @@
   <img alt="Vercel" src="https://img.shields.io/badge/vercel -000?logo=vercel&logoColor=fff&style=for-the-badge" />
   <img alt="Nextjs" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff&style=for-the-badge" />
   <img alt="supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=for-the-badge" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=fff&style=for-the-badge" />
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-000?logo=express&logoColor=fff&style=for-the-badge" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" />
+  <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=fff&style=for-the-badge" />
   <img alt="Fusion 360" src="https://img.shields.io/badge/Autodesk Fusion 360-000?logo=autodesk&logoColor=fff&style=for-the-badge" />
   
 </div>
