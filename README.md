@@ -13,6 +13,7 @@
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="React Router" src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge" />
   <img alt="React Query" src="https://img.shields.io/badge/React Query-FF4154?logo=react%20query&logoColor=fff&style=for-the-badge" />
@@ -32,6 +33,9 @@
   <img alt="Express" src="https://img.shields.io/badge/Express.js-000?logo=express&logoColor=fff&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" />
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=fff&style=for-the-badge" />
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge" />
+  
   <img alt="Fusion 360" src="https://img.shields.io/badge/Autodesk Fusion 360-000?logo=autodesk&logoColor=fff&style=for-the-badge" />
   
 </div>
