@@ -28,6 +28,7 @@
   <img alt="styledcomponents" src="https://img.shields.io/badge/styled components-DB7093?logo=styledcomponents&logoColor=fff&style=for-the-badge" />
   <img alt="Vercel" src="https://img.shields.io/badge/vercel -000?logo=vercel&logoColor=fff&style=for-the-badge" />
   <img alt="Nextjs" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff&style=for-the-badge" />
+  <img alt="firebase" src="https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=fff&style=for-the-badge" />
   <img alt="supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=for-the-badge" />
   <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=fff&style=for-the-badge" />
   <img alt="Express" src="https://img.shields.io/badge/Express.js-000?logo=express&logoColor=fff&style=for-the-badge" />
