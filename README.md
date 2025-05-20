@@ -36,6 +36,7 @@
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=fff&style=for-the-badge" />
   <img alt="JWT" src="https://img.shields.io/badge/JWT-000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge" />
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-1C2024?logo=expo&logoColor=fff&style=for-the-badge" />
   
   <img alt="Fusion 360" src="https://img.shields.io/badge/Autodesk Fusion 360-000?logo=autodesk&logoColor=fff&style=for-the-badge" />
   
