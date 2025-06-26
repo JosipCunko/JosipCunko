@@ -1,7 +1,7 @@
 # ⭐ About me ⭐
 👀 I’m interested in full-stack web development <br>
 😄 Started learning in May 2024 <br>
-⚡ I’m currently learning React <br>
+⚡ I’m currently mastering whole full-stack web dev universe <br>
 📞 Contact me if you find any problems in my repos <br>
 
 ---
